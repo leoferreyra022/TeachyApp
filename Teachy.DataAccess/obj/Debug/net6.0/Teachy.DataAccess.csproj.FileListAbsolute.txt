@@ -1,0 +1,12 @@
+C:\Users\Pablito\Documents\repos\c#\Teachy.DataAccess\bin\Debug\net6.0\Teachy.DataAccess.deps.json
+C:\Users\Pablito\Documents\repos\c#\Teachy.DataAccess\bin\Debug\net6.0\Teachy.DataAccess.dll
+C:\Users\Pablito\Documents\repos\c#\Teachy.DataAccess\bin\Debug\net6.0\Teachy.DataAccess.pdb
+C:\Users\Pablito\Documents\repos\c#\Teachy.DataAccess\obj\Debug\net6.0\Teachy.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Pablito\Documents\repos\c#\Teachy.DataAccess\obj\Debug\net6.0\Teachy.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablito\Documents\repos\c#\Teachy.DataAccess\obj\Debug\net6.0\Teachy.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Pablito\Documents\repos\c#\Teachy.DataAccess\obj\Debug\net6.0\Teachy.DataAccess.AssemblyInfo.cs
+C:\Users\Pablito\Documents\repos\c#\Teachy.DataAccess\obj\Debug\net6.0\Teachy.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Pablito\Documents\repos\c#\Teachy.DataAccess\obj\Debug\net6.0\Teachy.DataAccess.dll
+C:\Users\Pablito\Documents\repos\c#\Teachy.DataAccess\obj\Debug\net6.0\refint\Teachy.DataAccess.dll
+C:\Users\Pablito\Documents\repos\c#\Teachy.DataAccess\obj\Debug\net6.0\Teachy.DataAccess.pdb
+C:\Users\Pablito\Documents\repos\c#\Teachy.DataAccess\obj\Debug\net6.0\ref\Teachy.DataAccess.dll
