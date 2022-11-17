@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[User]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY,
+	[FirstName] NVARCHAR(50) NOT NULL,
+	[LastName] NVARCHAR(50) NULL,
+	[NickName] NVARCHAR(50) NULL,
+	[Active] BIT DEFAULT 1,
+	[DateCreated] DATETIME NOT NULL
+)
